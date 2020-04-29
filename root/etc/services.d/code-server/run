@@ -17,4 +17,4 @@ exec \
 			--disable-telemetry \
 			--disable-updates \
 			--auth "${AUTH}" \
-			/config/workspace
+			/app
